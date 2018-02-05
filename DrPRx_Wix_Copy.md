@@ -72,7 +72,3 @@ Cindy has a masters degree in Digital Forensics & Cybersecurity. In 2012, she wa
 
 
 
-## Social Links
-
-Tw
-
